@@ -105,14 +105,15 @@ img {
     justify-content:space-between;
     flex-wrap: wrap;
 }
+
 .card {
     margin-bottom:15px;
     background: #fff;
     max-width: 540px;
     box-shadow: 0 10px 40px rgba(126,155,189,0.35);
-   
     transition: transform 0.2s ease-in; /* liner */
 }
+
 .card:hover {
     transform: translateY(-15px);
 }
